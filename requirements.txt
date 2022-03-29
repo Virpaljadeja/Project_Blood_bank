@@ -104,7 +104,7 @@ scikit-learn==1.0.2
 scipy==1.7.3
 Send2Trash==1.8.0
 six==1.16.0
-sklearn==0.20
+# sklearn==0.20
 smmap==5.0.0
 soupsieve==2.2.1
 sqlparse==0.3.1
