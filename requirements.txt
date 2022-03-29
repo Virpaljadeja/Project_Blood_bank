@@ -95,7 +95,7 @@ python3-openid==3.2.0
 pytz==2020.1
 pytz-deprecation-shim==0.1.0.post0
 # pywin32==302
-# pywinpty==1.1.6
+pywinpty==1.1.6
 pyzmq==22.3.0
 regex==2021.11.10
 requests==2.23.0
@@ -104,7 +104,7 @@ scikit-learn==0.23.1
 scipy==1.7.3
 Send2Trash==1.8.0
 six==1.16.0
-sklearn==0.0
+sklearn==0.20
 smmap==5.0.0
 soupsieve==2.2.1
 sqlparse==0.3.1
