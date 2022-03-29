@@ -95,7 +95,7 @@ python3-openid
 pytz
 pytz-deprecation-shim
 # pywin32==302
-pywinpty==2.0.5
+pywinpty
 pyzmq
 regex
 requests
